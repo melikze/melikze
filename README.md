@@ -26,7 +26,7 @@ get List a & list1;
 - 💞️ I’m looking to collaborate on some good quality codes with measurable understatements
 - 📫 How to reach me @melikmehi is my currently open world id'. Connect with instagram, twitter, linkedIn
 
-new Static name [] = 'Melik Mehi';
+new public Static name [] = 'Melik Mehi';
 
 if (user properties =! English);
 println("G reatings;
