@@ -1,6 +1,6 @@
 //Saygılar; 
 
-DO (n == 1);
+DO (n == 1)
 
 new boolean a = boolean(
 "Kimya Mühendisi olarak Biyoloji alanında ilerlemeyi seçtim. Bu sürece kadar Bilgi 
