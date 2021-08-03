@@ -1,5 +1,7 @@
 //Saygılar; 
+
 DO (n == 1);
+
 new boolean a = boolean(
 "Kimya Mühendisi olarak Biyoloji alanında ilerlemeyi seçtim. Bu sürece kadar Bilgi 
 Üniversitesi İnşaat Mühendisliği bölümünü okurken Astro Tales adlı mobile oyun den 
@@ -24,9 +26,9 @@ get List a & list1;
 - 💞️ I’m looking to collaborate on some good quality codes with measurable understatements
 - 📫 How to reach me @melikmehi is my currently open world id'. Connect with instagram, twitter, linkedIn
 
-new Static name [] = 'Melik Mehi'
+new Static name [] = 'Melik Mehi';
 
-if (user properties =! English)
+if (user properties =! English);
 println("G reatings;
 
 A look beyond the innovations of 2021 and the understanding of open-based education 
