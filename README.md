@@ -12,9 +12,8 @@ geliştirmek adına çaba gösterdiğim 4 dil içerisinde ingilizce olarak yazı
 Anadilim Türkçe ile şiir, hikaye ve ya özet yazılar hazırlamaktayım. 1 seneyi aşkın 
 Galatasaray Spor Klubü okullarında aldığım basket antreman eğitimleri yanı Basket 
 Klubünde forma giydim. Daruşafaka Spor tesisinde aktif olarak spor eğitimi aldığım sırada 
-Erdemli Sporcu ödülüne, Rotary Klubü satranç turnuvasında ise yarı ederek katılım 
-belgesine layık görüldüm. Firma aile yapısına inanarak çalışma hayatıma devam edeceğime 
-güveniyorum. ", 0);
+Erdemli Sporcu ödülüne, Rotary Klubü satranç turnuvasında ise yarı finele gelerek katılım 
+belgesine layık görüldüm.. ", 0);
 ______
 create ReadMe.cmd
 import a to ReadMe
@@ -37,9 +36,10 @@ and some significent researches that can accesible here. Reliability of firm str
 respect of contexts; I argue that it is important to provide clean communication. Sport, clean 
 enviroment and I am aware that the return of active life is reinforced by the tournaments and 
 events attended is more efficent. With power to communication on diffrent levels, a company 
-should be stand agains world. Hope to meet you on the way of developing ideas and appealing
-company...
+should be stand agains world...
+
 Regards
+
 Melik Mehi "
 
 else 
